@@ -1,0 +1,51 @@
+difference between manual and automatic testing?
+
+Manual testing and automatic testing are two primary approaches to software testing, each with its distinct characteristics and advantages.
+
+Manual testing involves human testers executing test cases by hand, interacting directly with the software to validate its functionality, usability, and performance. Testers simulate real-world scenarios, providing valuable insights into user experience and identifying subtle issues that automated tools may overlook. Manual testing allows for flexible exploration of the software's behavior, making it particularly effective for ad-hoc and exploratory testing.
+
+On the other hand, automatic testing, also known as automated testing, relies on software tools to execute pre-defined test cases and verify the expected outcomes automatically. Automated tests are scripted and repeatable, enabling efficient regression testing and continuous integration processes. Automated testing is well-suited for repetitive tasks, large-scale testing, and ensuring consistent results across different environments.
+
+While manual testing offers the human insight and adaptability necessary for certain testing scenarios, it can be time-consuming, labor-intensive, and prone to human error. In contrast, automatic testing enhances efficiency, scalability, and repeatability but may lack the intuition and context provided by human testers. Combining both approaches in a balanced testing strategy can maximize the effectiveness and coverage of software testing efforts.
+
+2. list out all models of stlc
+
+STLC, or Software Testing Life Cycle, encompasses various models, including Waterfall, V-Model, Agile, Spiral, and Iterative.
+
+Waterfall Model: Sequential approach with distinct phases like Requirements, Design, Implementation, Testing, and Maintenance.
+V-Model: Corresponds testing phases to development phases in a V-shaped manner.
+Agile Model: Emphasizes iterative development and continuous testing in short cycles.
+Spiral Model: Combines elements of both Waterfall and Prototyping models in a risk-driven approach.
+Iterative Model: Repeats the development and testing phases iteratively until the desired quality is achieved.
+Each model offers unique advantages and is chosen based on project requirements, timelines, and risk tolerance.
+
+3. what is  stlc  and explain all stages of stlc
+
+STLC stands for Software Testing Life Cycle, a systematic approach to testing software. It comprises several stages:
+
+Requirement Analysis: Understanding project requirements.
+Test Planning: Defining test objectives, scope, and strategy.
+Test Case Development: Creating detailed test cases.
+Test Environment Setup: Preparing the required software and hardware.
+Test Execution: Running test cases and reporting defects.
+Defect Tracking: Recording and managing issues found during testing.
+Test Closure: Evaluating test results and preparing final reports.
+Each stage ensures thorough testing and quality assurance throughout the software development process.
+
+4.as a test lead web based application, manager asked to identify risk factors.can you provide the risk factors in testing ?
+
+Identifying risk factors in web-based application testing involves considerations such as incomplete requirements, 
+ambiguous user expectations, tight deadlines, resource constraints, compatibility issues across browsers/devices, 
+security vulnerabilities, scalability challenges, and integration complexities with third-party services. Additionally, 
+risks may stem from inadequate testing environments, insufficient test coverage, regression issues, and dependency on external APIs. 
+Furthermore, factors like lack of skilled testers, communication gaps within teams, and evolving technologies can pose significant risks. Addressing these factors requires thorough planning, effective communi
+cation, robust testing strategies, and proactive risk mitigation measures to ensure the quality and reliability of the web application.
+
+5.distination between quality assurance and quality control ?
+
+Quality assurance (QA) focuses on preventing defects by establishing processes and standards to ensure that products or 
+services meet predetermined criteria. It emphasizes proactive measures such as process improvements, training, and 
+documentation to maintain consistency and quality throughout the production or service delivery cycle. On the other
+ hand, quality control (QC) involves inspecting, testing, and verifying products or services to identify and rectify defects. 
+ It is a reactive process aimed at detecting and addressing issues after they occur. While QA aims to prevent defects, 
+ QC aims to identify and correct them, ensuring that the final output meets desired quality standards.
